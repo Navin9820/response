@@ -6,9 +6,6 @@
     .d-xs-block{
     	display: block !important;
     }
-    .container{
-      font-family: 'Montserrat',sans-serif;
-    }
     .row{
     	margin: 0;
     	padding-bottom: 20px;
