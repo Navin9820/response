@@ -1,0 +1,286 @@
+@media(max-width: 576px){
+	.d-xs-none{
+	display: none !important;
+    }
+
+    .d-xs-block{
+    	display: block !important;
+    }
+    .container{
+      font-family: 'Montserrat',sans-serif;
+    }
+    .row{
+    	margin: 0;
+    	padding-bottom: 20px;
+    }
+
+    .justify-content-center{
+    	justify-content: center;
+    }
+    .copyrights-bar a{
+    	margin: 30px 4px;
+    }
+    .description{
+    	padding-top: 30px;
+    }
+	.col-1{
+	   width: 8.33%;
+	   padding: 0 15px;
+    }
+
+    .col-2{
+	   width: 16.66%;
+	   padding: 0 15px;
+    }
+
+    .col-3{
+	   width: 25%;
+	   padding: 0 15px;
+    }
+
+    .col-4{
+	   width: 33.33%;
+	   padding: 0 15px;
+    }
+
+    .col-5{
+	  width: 41.66%;
+	  padding: 0 15px;
+    }
+
+    .col-6{
+	   width: 50%;
+	   padding: 0 15px;
+    }
+
+    .col-7{
+	   width: 58.33%;
+	   padding: 0 15px;
+    }
+
+    .col-8{
+	   width: 66.66%;
+	   padding: 0 15px;
+    }
+
+    .col-9{
+	   width: 75%;
+	   padding: 0 15px;
+    }
+
+    .col-10{
+	  width: 83.33%;
+	  padding: 0 15px;
+    }
+
+    .col-11{
+	   width: 91.66%;
+	   padding: 0 15px;
+    }
+
+    .col-12{
+	   width: 100%;
+	   padding: 0 15px;
+    }
+    .button{
+    	margin: 0px 40px;
+    }
+
+
+    .tab-content i{
+    	left: 42%;
+    }
+
+    .team-section{
+    	padding-bottom: 270px;
+    }
+    .icofont-rounded-down{
+        right: -14px;
+    }
+    .btns-2 {
+    	margin-bottom: 30px;
+    }
+    .info-box{
+    	margin-bottom: 20px;
+    }
+    .description-content{
+    	margin-bottom: 20px;
+    }
+
+    .logo a{
+    	font-size: 40px;
+    }
+}
+
+
+@media(min-width: 768px){
+
+    .container{
+       width: 765px;
+    }
+    .tab-content i{
+        left: 34%;
+    }
+    .about-content h1{
+        margin-left: 14px;
+    }
+    .about-content p{
+        margin-left: 14px;
+    }
+    .btns-2{
+        margin-left: 14px;
+    }
+    .about-list-box{
+        margin-left: 36px;
+        padding-top: 20px;
+    }
+    .team-section{
+        padding-bottom: 370px;
+    }
+    .justify-content-center{
+        justify-content: center;
+    }
+    .button{
+        margin: 0px 268px;
+    }
+    .info-box{
+        margin-bottom: 20px;
+    }
+    .description-content1 h3{
+        padding-top: 5px;
+    } 
+    .description-content h3{
+        padding-top: 6px;
+    } 
+
+    .col-ip-1{
+       width: 8.33%;
+       padding: 0 15px;
+    }
+
+    .col-ip-2{
+       width: 16.66%;
+       padding: 0 15px;
+    }
+
+    .col-ip-3{
+       width: 25%;
+       padding: 0 15px;
+    }
+
+    .col-ip-4{
+       width: 33.33%;
+       padding: 0 15px;
+    }
+
+    .col-ip-5{
+      width: 41.66%;
+      padding: 0 15px;
+    }
+
+    .col-ip-6{
+       width: 50%;
+       padding: 0 15px;
+    }
+
+    .col-ip-7{
+       width: 58.33%;
+       padding: 0 15px;
+    }
+
+    .col-ip-8{
+       width: 66.66%;
+       padding: 0 15px;
+    }
+
+    .col-ip-9{
+       width: 75%;
+       padding: 0 15px;
+    }
+
+    .col-ip-10{
+      width: 83.33%;
+      padding: 0 15px;
+    }
+
+    .col-ip-11{
+       width: 91.66%;
+       padding: 0 15px;
+    }
+
+    .col-ip-12{
+       width: 100%;
+       padding: 0 15px;
+    }
+}
+
+@media(min-width: 1200px){
+    .container{
+       width: 1200px;
+       margin: 0 auto;
+       padding-left: 15px;
+       padding-right: 15px;
+       font-family: 'Montserrat',sans-serif;
+    }
+
+    .col-lg-1{
+       width: 8.33%;
+       padding: 0 15px;
+    }
+
+    .col-lg-2{
+       width: 16.66%;
+       padding: 0 15px;
+    }
+
+    .col-lg-3{
+       width: 25%;
+       padding: 0 15px;
+    }
+
+    .col-lg-4{
+       width: 33.33%;
+       padding: 0 15px;
+    }
+
+    .col-lg-5{
+      width: 41.66%;
+      padding: 0 15px;
+    }
+
+    .col-lg-6{
+       width: 50%;
+       padding: 0 15px;
+    }
+
+    .col-lg-7{
+       width: 58.33%;
+       padding: 0 15px;
+    }
+
+    .col-lg-8{
+       width: 66.66%;
+       padding: 0 15px;
+    }
+
+    .col-lg-9{
+       width: 75%;
+       padding: 0 15px;
+    }
+
+    .col-lg-10{
+      width: 83.33%;
+      padding: 0 15px;
+    }
+
+    .col-lg-11{
+       width: 91.66%;
+       padding: 0 15px;
+    }
+
+    .col-lg-12{
+       width: 100%;
+       padding: 0 15px;
+    }
+    
+}
